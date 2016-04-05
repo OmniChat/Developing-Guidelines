@@ -14,3 +14,8 @@ Todos nossos repositórios estão hospedados no Github.
 Alguns estão marcados como private pois possuem códigos que não podem ser abertos a comunidade.
 Todo o repositório possui um único "dono" que possui permissão de escrita no mesmo. Demais desenvolvedores irão possuir permissão de leitura somente.
 
+## Log de alterações
+Todo repositório possui um arquivo chamado changelog.md.
+Todas as alterações devem ester listadas lá e normalmente cada linha corresponde a um `git commit`
+
+
