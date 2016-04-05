@@ -6,6 +6,7 @@ Orientações que projetos desenvolvidos internamente ou por parceiros devem seg
 - Javascipt: https://github.com/airbnb/javascript
 - Objective-C: https://github.com/github/objective-c-style-guide
 - Java: ???
+
 > Linters como [ESLint](http://eslint.org/) podem habilitados automaticamente
 > no seu ambiente de desenvolvimento para alertá-lo "as you code".
 
