@@ -18,4 +18,9 @@ Todo o repositório possui um único "dono" que possui permissão de escrita no 
 Todo repositório possui um arquivo chamado changelog.md.
 Todas as alterações devem ester listadas lá e normalmente cada linha corresponde a um `git commit`
 
+## readme.md
+Todo o repositório possui um readme.md e deve estar sempre refletindo o status atual do projeto.
+Este é o lugar que compartilhamos informações de como usar e manter o repositório.
+
+
 
